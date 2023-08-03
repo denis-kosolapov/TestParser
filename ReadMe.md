@@ -1,8 +1,8 @@
 Для запуска данного кода потребуется:
 
-* Установить PyCharm Community IDE
+* PyCharm Community IDE
 
-* Установить Anaconda 3
+* Anaconda 3
 
 * Создать новый проект environment conda, python version 3.9
 
