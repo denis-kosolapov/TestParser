@@ -1,11 +1,8 @@
 Для запуска данного кода потребуется:
 
 * PyCharm Community IDE
-
 * Anaconda 3
-
 * Создать новый проект environment conda, python version 3.9
-
 * Установить библиотеки из файла requirements.txt
 `pip install -r requirements.txt`
 
