@@ -1,0 +1,18 @@
+1691087212796	geckodriver	INFO	Listening on 127.0.0.1:62827
+1691087215865	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "628 ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SCISOF~1\\AppData\\Local\\Temp\\rust_mozprofileaR0RGr"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1691087216251	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1691087216322	Marionette	INFO	Listening on port 62845
+WebDriver BiDi listening on ws://127.0.0.1:62828
+Read port: 62845
+1691087216615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:62828/devtools/browser/0c7cc1e4-e897-4675-8b65-ed24b6d0743d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.olx.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.olx.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.olx.pl."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.olx.pl."
